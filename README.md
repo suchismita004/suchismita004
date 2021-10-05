@@ -13,9 +13,9 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Hindi, Odia, Koreanian)
 
 
-### Talk with me, I am kinda awesome :dancer: :
+### Talk with me, I am kinda awesome 🙂 :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holistic_developer | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>][instagram]
+
 
 <br />
 
