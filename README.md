@@ -1,8 +1,6 @@
 
 ### Hello World, I'm Suchismita  👋
 
- /*<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
- 
 <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/master/code suchismita gif.gif?raw=true" width="500" height="320" />
 
 ## I'm a Daughter, Student, Developer, Ambassador, and Mentor!!
