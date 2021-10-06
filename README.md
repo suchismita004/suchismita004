@@ -55,11 +55,11 @@
 
 </details>
 
-</div>
-   
-   ![Snake animation](https://github.com/suchismita004/suchismita004/blob/output/github-contribution-grid-snake.svg)
+
    
 [website]: https://linktr.ee/_Suchismita_
 [youtube]: 
 [instagram]: 
 [linkedin]: https://www.linkedin.com/in/suchismita-b-2a2293215
+
+ ![Snake animation](https://github.com/suchismita004/suchismita004/blob/output/github-contribution-grid-snake.svg)
