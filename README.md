@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=suchismita004&repo=suchismita004&countColorcountColor)
 ### Hello World, I'm Suchismita 👋 aka SHUCHI ⭐:
 
-<img align="right" alt="GIF" src ""https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" ?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src ""https://github.com/arsentieva/arsentieva/blob/main/code.gif"?raw=true" width="500" height="320" />
 https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif
 ![suchismita gif](https://user-images.githubusercontent.com/88958930/136317499-11604225-9fb7-4779-95da-c52bcd28fdb5.gif)
 
