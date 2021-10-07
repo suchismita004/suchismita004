@@ -2,7 +2,7 @@
 ### Hello World, I'm Suchismita 👋 aka SHUCHI ⭐:
 
 <img align="right" alt="GIF" src https://user-images.githubusercontent.com/88958930/136317499-11604225-9fb7-4779-95da-c52bcd28fdb5.gif ?raw=true" width="500" height="320" />
-![suchismita gif](https://user-images.githubusercontent.com/88958930/136317499-11604225-9fb7-4779-95da-c52bcd28fdb5.gif)
+<img align="right" alt="GIF" src ![suchismita gif](https://user-images.githubusercontent.com/88958930/136317499-11604225-9fb7-4779-95da-c52bcd28fdb5.gif) ?raw=true" width="500" height="320" />
 
 ## I'm a Daughter, Student, Developer, Ambassador, and Mentor!!
 - ✍ You can find my achievements here [website]
