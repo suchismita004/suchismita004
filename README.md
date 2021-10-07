@@ -4,7 +4,8 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif
+
+ <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
 ![suchismita gif](https://user-images.githubusercontent.com/88958930/136317499-11604225-9fb7-4779-95da-c52bcd28fdb5.gif)
 
 ## I'm a Daughter, Student, Developer, Ambassador, and Mentor!!
