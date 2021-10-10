@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
 
 ## I'm a Daughter, Student, Developer, Ambassador, and Mentor!!
-- ✍ You can find my achievements here [website]
+- ✍ You can find my achievements here [instagram]
 - 🔭 I’m currently working on my course.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on open source
@@ -14,6 +14,9 @@
 
 
 ### Talk with me, I am kinda awesome 🙂 :
+[][twitter]
+[][instagram]
+
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -21,7 +24,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][instagram]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][linkedin]
@@ -62,5 +65,5 @@
 [youtube]: 
 [instagram]: 
 [linkedin]: https://www.linkedin.com/in/suchismita-b-2a2293215
-
+[twitter]: https//twitter.com/suchismita__?t=xl1a-L9q9OPa0ezP6YU4cg&s=08
  
