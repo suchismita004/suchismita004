@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
 
 ## I'm a Daughter, Student, Developer, Ambassador, and Mentor!!
-- ✍ You can find my achievements here [instagram]
+- ✍ You can find my achievements here [temporarily deleted!]
 - 🔭 I’m currently working on my course.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on open source
@@ -61,9 +61,9 @@
 
 
    
-[website]: https://linktr.ee/_Suchismita_
+[website]:
 [youtube]: 
 [instagram]: 
-[linkedin]: https://www.linkedin.com/in/suchismita-b-2a2293215
-[twitter]: https//twitter.com/suchismita__?t=xl1a-L9q9OPa0ezP6YU4cg&s=08
+[linkedin]: 
+[twitter]: 
  
