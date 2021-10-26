@@ -21,6 +21,8 @@
 [<img align="left" alt="discord | LinkedIn" width="80px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][linkedin]
 <br />
 
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
