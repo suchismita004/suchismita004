@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=suchismita004&repo=suchismita004&countColorcountColor)
+![Profile Views](https://komarev.com/ghpvc/?username=suchismita004&color=Yellow)
 ### Hello World, I'm Suchismita 👋 aka SHUCHI ⭐:
 
 <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
