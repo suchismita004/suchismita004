@@ -1,23 +1,22 @@
-![Profile Views](https://komarev.com/ghpvc/?username=suchismita004&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=suchismita004&color=yellow&style=plastic)
 ### Hello World, I'm Suchismita 👋 aka SHUCHI ⭐:
 
 <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
 
-## I'm a Daughter, Student, Developer, Ambassador, and Mentor!!
+## I'm a Daughter, Student, Developer!!
 - ✍ You can find my achievements here [instagram] 
 - 🔭 I’m currently working on my course.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Hindi, Odia, Koreanian)
+- ⚡ Fun fact: I speak 5 languages ( English, Hindi, Odia, bengali, Koreanian)
 
 
 ### Talk with me, I am kinda awesome 🙂 :
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="twitter | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="instagram | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="youtube | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][instagram]
 [<img align="left" alt="discord | LinkedIn" width="70px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][linkedin]
 <br />
 
