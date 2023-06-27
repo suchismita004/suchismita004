@@ -5,10 +5,10 @@
 
 ## I'm a Daughter, Student, Developer!!
 - ✍ You can find my achievements here [instagram] 
-- 🔭 I’m currently working on my course.
+- 🔭 I’m currently working on my goal.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... Anything**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 5 languages ( English, Hindi, Odia, bengali, Koreanian)
 
